@@ -1,0 +1,55 @@
+/**
+ * Float Layout Activity
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+	margin-left: 50px;
+	margin-right: 50px;
+	width:600px;
+	text-align: left;
+}
+
+header {
+
+}
+
+nav{
+ 
+}
+
+section {
+ 
+}
+
+article {
+
+}
+
+h1 {
+
+}
+
+h2 {
+	
+}
+
+h3 {
+	
+}
+
+p {
+
+}
+
+aside {
+
+}
+
+footer {
+	
+}
